@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+sentence-transformers
+torch
